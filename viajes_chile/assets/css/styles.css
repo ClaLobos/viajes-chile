@@ -1,0 +1,122 @@
+/* INICIO */
+body * {
+    border:0px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu';
+}
+
+/* NAVBAR */
+.navbar{
+    background-color: #000000d8;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.navbar img{
+    width: 40px;
+}
+
+.nav-margin{
+    margin-left: 700px;
+}
+
+/* CARRUSEL */
+
+
+
+/* PRESENTACION */
+/* CAMBIA COLOR DE LETRA H1 E COLOR ICONO */
+#presentacion h1{
+    color: #ffffff; 
+}
+
+#presentacion i{
+    color: #ffffff; 
+  
+}
+
+/* ANCHURA DE H1 */
+#presentacion h1{
+    font-weight: 100;
+}
+
+/* COLOR Y SEPARACION DE PARRAFO */
+#presentacion p{
+    color: #ffffff;
+    line-height:25px
+}
+
+/* BORDE INFERIOR DE DIV PARA SIMULAR LINEA */
+.borde_div{
+    border-bottom: 1px solid #fdfdfd;
+}
+
+.fondo_oscuro{
+    background-color: #313131;
+}
+.fondo_iconos{
+    background-color: #04b9d1;
+}
+
+/* SECCION DESTACADOS */
+#destacados p{
+    font-size: 1rem;
+}
+
+
+#destacados h1{
+    color: #ffffff;
+    
+}
+
+#destacados p{
+    margin-top: 10px;
+}
+
+#destacados img{
+    height: 170PX;
+}
+
+#destacados h4{
+    font-size: 19px;
+}
+
+.car-body{
+    background-color: #04b9d1;
+}
+
+.car-body p, .car-body h4{
+    color: #ffffff;
+}
+
+.card img:hover{
+    opacity: 0.5;
+}
+
+#formulario {
+    color: #ffffff;
+    padding: auto;
+    margin: 0;
+}
+
+
+
+/* FOOTER */
+
+.footer i{
+    margin-left: 20px;
+    padding: auto;
+    
+  
+}
+
+
+
+/* BORDE FALTANTE */
+.borde_blanco{
+    border: 1px solid #ffffff;
+    
+}
+
+
